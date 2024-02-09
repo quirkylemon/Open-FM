@@ -1,4 +1,4 @@
-set(BaseTargetName Dexed)
+set(BaseTargetName OPEN_FM)
 
 set(DEXED_JUCE_FORMATS Standalone)
 
@@ -25,8 +25,8 @@ juce_add_plugin("${BaseTargetName}"
         PLUGIN_MANUFACTURER_CODE DGSB
         PLUGIN_CODE Dexd
         FORMATS ${DEXED_JUCE_FORMATS}
-        PRODUCT_NAME "Dexed"
-        DESCRIPTION "Dexed FM Synth"
+        PRODUCT_NAME "Open-FM"
+        DESCRIPTION "Open Source FM Synth"
 )
 
 clap_juce_extensions_plugin(TARGET ${BaseTargetName}

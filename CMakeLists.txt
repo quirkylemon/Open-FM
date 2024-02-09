@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(Dexed VERSION 0.9.6)
+project(OPEN_FM VERSION 0.9.6)
 
 #Compile commands, useful for some IDEs like VS-Code
 set(CMAKE_EXPORT_COMPILE_COMMANDS TRUE)
