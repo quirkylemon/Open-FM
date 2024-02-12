@@ -1,0 +1,64 @@
+{
+    "Name":"init",
+    "Version":"0.0.1",
+
+    "Level":1,
+    "TransposeSemi":0,
+    "TransposeOctave":0,
+    "Mono":true,
+
+    "Tune":1,
+    "Cutoff":1,
+    "Resonance":0,
+
+    "Algo":0,
+    "Feedback":0,
+    
+    "Wave":"TRIANGLE",
+    "Speed":35,
+    "Delay":0,
+
+    "PitchModSens":3,
+    "PitchModDepth":0,
+    "AmpModDepth":0, 
+
+    "LfoKeySync":true,
+    "OscKeySync":true,
+
+    "OpList":[
+        {
+            "Number":0,
+            "Enabled":true,
+
+            "Type":"Sine",
+
+            "Tune":0,
+            "Course":1,
+            "Fine":0,
+
+            "FixedFreq":false,
+
+            "AttackLevel":1,
+            "DecayLevel":1,
+            "SustainLevel":1,
+            "ReleaseLevel":1,
+
+            "AttackRate":1,
+            "DecayRate":1,
+            "SustainRate?":1,
+            "ReleaseRate":1,
+
+            "AmpModSens":0,
+            "KeyVelSens":0,
+            "Level":1,
+
+            "LeftDepth":0,
+            "RightDepth":0,
+            "Breakpoint":0,
+
+            "RateScaling":0,
+            "LeftCurve":"LN",
+            "RightCurve":"LN"
+        }
+    ]
+}

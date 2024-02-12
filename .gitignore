@@ -10,6 +10,8 @@ Builds/VisualStudio2017/
 
 .vscode
 
+compile_commands.json
+
 JuceLibraryCode/
 Builds/
 assets/

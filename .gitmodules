@@ -16,3 +16,6 @@
 [submodule "libs/clap-juce-extensions"]
 	path = libs/clap-juce-extensions
 	url = https://github.com/free-audio/clap-juce-extensions
+[submodule "libs/json"]
+	path = libs/json
+	url = https://github.com/nlohmann/json.git
